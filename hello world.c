@@ -1,11 +1,9 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-    int a=3;
+    int a=30;
 
     printf("%d",a);
-    return 0;
-    
-
+   
 }
